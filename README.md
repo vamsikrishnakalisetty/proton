@@ -1,6 +1,5 @@
-# vprofile-deploy #
-
-
+# vprofile-infra #
+##
 
 ## Getting started
 
@@ -15,14 +14,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/gitops7080923/vprofile-deploy.git
+git remote add origin https://gitlab.com/gitops7080923/vprofile-infra.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/gitops7080923/vprofile-deploy/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/gitops7080923/vprofile-infra/-/settings/integrations)
 
 ## Collaborate with your team
 
