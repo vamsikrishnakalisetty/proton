@@ -24,7 +24,9 @@ sql dump file:
   >
   > uedbiue'dn
   > noeo:wq
-  > 
+  sjse
+  >
+  > ee
 
 hi hello 
 i am vamsi
